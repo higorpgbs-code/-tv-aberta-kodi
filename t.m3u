@@ -457,3 +457,21 @@ http://187.49.86.238:10000/bysid/69
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-id="ParamountChannelTesteDireto" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" tvg-name="Paramount Channel (teste)" group-title="98 - Testes - Links Diretos",Paramount Channel (teste)
 http://187.49.86.238:10000/bysid/49
+#EXTINF:-1 tvg-id="SexZoneTeste18" tvg-name="SEX ZONE" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/01/wp-1452618158933.jpg" group-title="97 - Adulto 18+",SEX ZONE
+http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="CandyTVTeste18" tvg-name="Candy TV" tvg-logo="https://goo.gl/CJVrTy" group-title="97 - Adulto 18+",Candy TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Butgo1Teste18" tvg-name="BUTGO" tvg-logo="https://goo.gl/iay7x8" group-title="97 - Adulto 18+",BUTGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="Butgo2Teste18" tvg-name="BUTGO! - Alternativa" tvg-logo="https://goo.gl/iay7x8" group-title="97 - Adulto 18+",BUTGO! - Alternativa
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+#EXTINF:-1 tvg-id="AskTVTeste18" tvg-name="ASK TV" tvg-logo="https://goo.gl/OtWcrT" group-title="97 - Adulto 18+",ASK TV
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="PenthouseAsiaTeste18" tvg-name="PENTHOUSE ASIA 18+" tvg-logo="https://goo.gl/wcAObA" group-title="97 - Adulto 18+",PENTHOUSE ASIA 18+
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="SakuraPornTeste18" tvg-name="SAKURA PORN TV" tvg-logo="https://goo.gl/GtyTQH" group-title="97 - Adulto 18+",SAKURA PORN TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="JasminTVTeste18" tvg-name="JASMIN TV" tvg-logo="https://goo.gl/b2ZEuF" group-title="97 - Adulto 18+",JASMIN TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-id="LivetingTVTeste18" tvg-name="LIVETING TV" tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="97 - Adulto 18+",LIVETING TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
