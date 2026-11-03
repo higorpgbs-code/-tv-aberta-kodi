@@ -5,7 +5,7 @@ http://79.127.238.228:14173/
 https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/a9387527-68a0-4e93-b52b-1bbb56baaa48:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4766400.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record" group-title="TV Aberta (confirmados)",Record
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional" group-title="TV Aberta (confirmados)",SBT Nacional
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-name="SBT Interior SP" group-title="TV Aberta",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="RedeTV!" group-title="TV Aberta (confirmados)",RedeTV!
 http://170.83.49.66:8083/REDETVHD/index.m3u8
