@@ -389,3 +389,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="TVMorenaDouradosTeste.br@HD" tvg-name="TV Morena Dourados - 720p anunciado (teste)" group-title="17 - Globo - Alternativas para teste",TV Morena Dourados - 720p anunciado (teste)
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+#EXTINF:-1 tvg-id="CombateTestePaginaHTML" tvg-name="Combate (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Combate (teste - pagina HTML)
+https://rdcanais.org/combate
