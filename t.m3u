@@ -393,3 +393,5 @@ https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 https://rdcanais.org/combate
 #EXTINF:-1 tvg-id="CNNBrasilTestePaginaHTML" tvg-name="CNN Brasil (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",CNN Brasil (teste - pagina HTML)
 https://rdcanais.org/cnnbrasil
+#EXTINF:-1 tvg-id="CinemaxTestePaginaHTML" tvg-name="Cinemax (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Cinemax (teste - pagina HTML)
+https://rdcanais.org/cinemax
