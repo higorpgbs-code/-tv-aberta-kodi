@@ -437,8 +437,6 @@ https://rdcanais.org/premiere8
 https://rdcanais.org/telecinecult
 #EXTINF:-1 tvg-id="RDCanaistelecinefunTesteHTML" tvg-name="Telecine Fun (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Fun (teste - pagina HTML)
 https://rdcanais.org/telecinefun
-#EXTINF:-1 tvg-id="RDCanaistelecinepipocaTesteHTML" tvg-name="Telecine Pipoca (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Pipoca (teste - pagina HTML)
-https://rdcanais.org/telecinepipoca
 #EXTINF:-1 tvg-id="RDCanaistelecinepremiumTesteHTML" tvg-name="Telecine Premium (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Premium (teste - pagina HTML)
 https://rdcanais.org/telecinepremium
 #EXTINF:-1 tvg-id="RDCanaistelecinetouchTesteHTML" tvg-name="Telecine Touch (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Touch (teste - pagina HTML)
@@ -453,3 +451,5 @@ http://95.211.149.215:8081/look/pfc/playlist.m3u8
 http://5.79.68.138:8081/look/megapix/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecineActionTesteHLS" tvg-name="Telecine Action (teste HLS)" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="98 - Testes - M3U8",Telecine Action (teste HLS)
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+#EXTINF:-1 tvg-id="TelecinePipocaTesteHLS" tvg-name="Telecine Pipoca (teste HLS)" tvg-logo="http://clarotv.claro.com.br/image/Get/453" group-title="98 - Testes - M3U8",Telecine Pipoca (teste HLS)
+http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
