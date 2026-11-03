@@ -373,22 +373,6 @@ https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="09 - Esportes",FIFA+ Portuguese (720p)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnnbrasil.png" group-title="14 - Soul TV",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Times Brasil (Soul TV)" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnbc.png" group-title="14 - Soul TV",Times Brasil (Soul TV)
-https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universidade da Pessoa" tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="14 - Soul TV",Universidade da Pessoa
-http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viajando pelo Brasil" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="14 - Soul TV",Viajando pelo Brasil
-http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XR Health Brasil" tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="14 - Soul TV",XR Health Brasil
-http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DarkFlix" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/darkflix.png" group-title="14 - Soul TV",DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Soul Cine Clube" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="14 - Soul TV",Soul Cine Clube
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Monde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="14 - Soul TV",Cine Monde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Runtime" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/runtime.png" group-title="15 - Runtime TV",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/runtime.png" group-title="15 - Runtime TV",Runtime Ação
@@ -401,40 +385,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-id="" tvg-name="Runtime Crime" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/runtime.png" group-title="15 - Runtime TV",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-id="USBD3500032H0" tvg-name="Movie Hub Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20261002T182005SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Movie Hub Action
-https://jmp2.uk/stvp-USBD3500032H0
-#EXTINF:-1 tvg-id="USBD3500033U0" tvg-name="Movie Hub Romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260915T035223SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Movie Hub Romance
-https://jmp2.uk/stvp-USBD3500033U0
-#EXTINF:-1 tvg-id="USBD270001633" tvg-name="Hallmark Movies & More" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261002T181949SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Hallmark Movies & More
-https://jmp2.uk/stvp-USBD270001633
-#EXTINF:-1 tvg-id="US18000163F" tvg-name="Miramax Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260707T035902SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Miramax Movie Channel
-https://jmp2.uk/stvp-US18000163F
-#EXTINF:-1 tvg-id="US8000024G" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260915T035051SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",OUTflix Movies
-https://jmp2.uk/stvp-US8000024G
-#EXTINF:-1 tvg-id="USBC36000073J" tvg-name="RetroCrush" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20250701T224525SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",RetroCrush
-https://jmp2.uk/stvp-USBC36000073J
-#EXTINF:-1 tvg-id="USBC44000072I" tvg-name="HappyKids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20260414T005527SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",HappyKids
-https://jmp2.uk/stvp-USBC44000072I
-#EXTINF:-1 tvg-id="USBC3600013PC" tvg-name="PBS Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20260421T142214SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",PBS Kids
-https://jmp2.uk/stvp-USBC3600013PC
-#EXTINF:-1 tvg-id="US1300007KZ" tvg-name="PBS Nature" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300007KZ_20250729T010500SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",PBS Nature
-https://jmp2.uk/stvp-US1300007KZ
-#EXTINF:-1 tvg-id="US4700003DP" tvg-name="Stingray Movie Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700003DP_20260421T141750SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Stingray Movie Music
-https://jmp2.uk/stvp-US4700003DP
-#EXTINF:-1 tvg-id="US100000704" tvg-name="CBS Sports Golazo Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260701T010049SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",CBS Sports Golazo Network
-https://jmp2.uk/stvp-US100000704
-#EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="beIN SPORTS XTRA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",beIN SPORTS XTRA
-https://jmp2.uk/stvp-USAJ4300001Q7
-#EXTINF:-1 tvg-id="USBD700017WC" tvg-name="Tastemade Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Tastemade Travel
-https://jmp2.uk/stvp-USBD700017WC
-#EXTINF:-1 tvg-id="USAJ3504502A" tvg-name="Anime All day" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20260421T141927SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Anime All day
-https://jmp2.uk/stvp-USAJ3504502A
-#EXTINF:-1 tvg-id="USBD700003L7" tvg-name="FOX Weather" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",FOX Weather
-https://jmp2.uk/stvp-USBD700003L7
-#EXTINF:-1 tvg-id="US1300005MK" tvg-name="PBS Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300005MK_20250915T233905SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",PBS Travel
-https://jmp2.uk/stvp-US1300005MK
-#EXTINF:-1 tvg-id="USBD2500022U5" tvg-name="Cine Retro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20260421T142139SQUARE.png" group-title="16 - Samsung TV Plus (EUA - teste)",Cine Retro
-https://jmp2.uk/stvp-USBD2500022U5
 #EXTINF:-1 tvg-id="RedeGloboRBSTeste.br@HD" tvg-name="Globo RBS RS - 1080p anunciado (teste)" group-title="17 - Globo - Alternativas para teste",Globo RBS RS - 1080p anunciado (teste)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="TVMorenaDouradosTeste.br@HD" tvg-name="TV Morena Dourados - 720p anunciado (teste)" group-title="17 - Globo - Alternativas para teste",TV Morena Dourados - 720p anunciado (teste)
