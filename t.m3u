@@ -447,9 +447,9 @@ https://rdcanais.org/telecinetouch
 https://rdcanais.org/warnertv
 #EXTINF:-1 tvg-id="RDCanaisadultswimTesteHTML" tvg-name="Adult Swim (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Adult Swim (teste - pagina HTML)
 https://rdcanais.org/adultswim
-#EXTINF:-1 tvg-id="RDCanaistelecineactionTesteHTML" tvg-name="Telecine Action (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Action (teste - pagina HTML)
-https://rdcanais.org/telecineaction
 #EXTINF:-1 tvg-id="PFCTesteHLS" tvg-name="PFC (teste HLS)" group-title="98 - Testes - M3U8",PFC (teste HLS)
 http://95.211.149.215:8081/look/pfc/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaPixTesteHLS" tvg-name="Megapix (teste HLS)" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="98 - Testes - M3U8",Megapix (teste HLS)
 http://5.79.68.138:8081/look/megapix/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecineActionTesteHLS" tvg-name="Telecine Action (teste HLS)" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="98 - Testes - M3U8",Telecine Action (teste HLS)
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
