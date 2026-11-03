@@ -395,3 +395,5 @@ https://rdcanais.org/combate
 https://rdcanais.org/cnnbrasil
 #EXTINF:-1 tvg-id="CinemaxTestePaginaHTML" tvg-name="Cinemax (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Cinemax (teste - pagina HTML)
 https://rdcanais.org/cinemax
+#EXTINF:-1 tvg-id="DiscoveryChannelTestePaginaHTML" tvg-name="Discovery Channel (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Discovery Channel (teste - pagina HTML)
+https://rdcanais.org/discoverychannel
