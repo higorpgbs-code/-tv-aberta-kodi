@@ -403,3 +403,5 @@ https://rdcanais.org/discoveryheh
 https://rdcanais.org/hbo
 #EXTINF:-1 tvg-id="HBO2TestePaginaHTML" tvg-name="HBO 2 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO 2 (teste - pagina HTML)
 https://rdcanais.org/hbo2
+#EXTINF:-1 tvg-id="HBOFamilyTestePaginaHTML" tvg-name="HBO Family (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO Family (teste - pagina HTML)
+https://rdcanais.org/hbofamily
