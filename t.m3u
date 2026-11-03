@@ -473,13 +473,3 @@ http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="LivetingTVTeste18" tvg-name="LIVETING TV" tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="97 - Adulto 18+",LIVETING TV
 http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTesteIP120" tvg-name="Discovery Channel - teste 1" tvg-logo="http://oi67.tinypic.com/2m4ss2f.jpg" group-title="98 - Testes - Links Diretos",Discovery Channel - teste 1
-http://187.49.86.238:10000/bysid/120
-#EXTINF:-1 tvg-id="DiscoveryTesteAnimaux" tvg-name="Discovery Channel - teste 2 (fluxo nao confirmado)" tvg-logo="http://oi67.tinypic.com/2m4ss2f.jpg" group-title="98 - Testes - M3U8",Discovery Channel - teste 2 (fluxo nao confirmado)
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetTesteUstream" tvg-name="Animal Planet Live HD - teste" tvg-logo="https://lut.im/7e56RrpX1R/o5azQfqrk8DY0sAg.png" group-title="98 - Testes - M3U8",Animal Planet Live HD - teste
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIPortugalTeste1" tvg-name="TVI 01 - teste" tvg-logo="https://voxpoptv.files.wordpress.com/2011/07/tvi.png" group-title="98 - Testes - M3U8",TVI 01 - teste
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIPortugalTeste2" tvg-name="TVI 02 - teste" tvg-logo="https://voxpoptv.files.wordpress.com/2011/07/tvi.png" group-title="98 - Testes - M3U8",TVI 02 - teste
-http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-2/livestream.m3u8
