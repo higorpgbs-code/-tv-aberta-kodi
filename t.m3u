@@ -359,8 +359,6 @@ https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoStan.us@BR" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="07 - Infantil e Animação",South Park: Colecao Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="08 - Filmes",Telecine Action (1080p)
-http://46.151.196.223:14326/
 #EXTINF:-1 tvg-id="TikTokRadioBrasil.br@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg" group-title="10 - Musica e MTV",TikTok Radio Brasil (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="07 - Infantil e Animação",Tokusato
@@ -451,3 +449,5 @@ https://rdcanais.org/telecinetouch
 https://rdcanais.org/warnertv
 #EXTINF:-1 tvg-id="RDCanaisadultswimTesteHTML" tvg-name="Adult Swim (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Adult Swim (teste - pagina HTML)
 https://rdcanais.org/adultswim
+#EXTINF:-1 tvg-id="RDCanaistelecineactionTesteHTML" tvg-name="Telecine Action (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Action (teste - pagina HTML)
+https://rdcanais.org/telecineaction
