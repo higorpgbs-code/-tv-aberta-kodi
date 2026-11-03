@@ -399,8 +399,6 @@ https://rdcanais.org/discoverychannel
 https://rdcanais.org/discoveryheh
 #EXTINF:-1 tvg-id="HBOTestePaginaHTML" tvg-name="HBO (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO (teste - pagina HTML)
 https://rdcanais.org/hbo
-#EXTINF:-1 tvg-id="HBO2TestePaginaHTML" tvg-name="HBO 2 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO 2 (teste - pagina HTML)
-https://rdcanais.org/hbo2
 #EXTINF:-1 tvg-id="HBOFamilyTestePaginaHTML" tvg-name="HBO Family (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO Family (teste - pagina HTML)
 https://rdcanais.org/hbofamily
 #EXTINF:-1 tvg-id="RDCanaishbopopTesteHTML" tvg-name="HBO Pop (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO Pop (teste - pagina HTML)
@@ -439,8 +437,6 @@ https://rdcanais.org/telecinecult
 https://rdcanais.org/telecinefun
 #EXTINF:-1 tvg-id="RDCanaistelecinepremiumTesteHTML" tvg-name="Telecine Premium (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Premium (teste - pagina HTML)
 https://rdcanais.org/telecinepremium
-#EXTINF:-1 tvg-id="RDCanaistelecinetouchTesteHTML" tvg-name="Telecine Touch (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Touch (teste - pagina HTML)
-https://rdcanais.org/telecinetouch
 #EXTINF:-1 tvg-id="RDCanaiswarnertvTesteHTML" tvg-name="Warner TV (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Warner TV (teste - pagina HTML)
 https://rdcanais.org/warnertv
 #EXTINF:-1 tvg-id="RDCanaisadultswimTesteHTML" tvg-name="Adult Swim (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Adult Swim (teste - pagina HTML)
@@ -453,3 +449,11 @@ http://5.79.68.138:8081/look/megapix/playlist.m3u8
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
 #EXTINF:-1 tvg-id="TelecinePipocaTesteHLS" tvg-name="Telecine Pipoca (teste HLS)" tvg-logo="http://clarotv.claro.com.br/image/Get/453" group-title="98 - Testes - M3U8",Telecine Pipoca (teste HLS)
 http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecineTouchTesteDireto" tvg-logo="https://goo.gl/4HigWR" tvg-name="Telecine Touch (teste)" group-title="98 - Testes - Links Diretos",Telecine Touch (teste)
+http://187.49.86.238:10000/bysid/63
+#EXTINF:-1 tvg-id="HBO2TesteDireto" tvg-logo="https://goo.gl/OngVqc" tvg-name="HBO 2 (teste)" group-title="98 - Testes - Links Diretos",HBO 2 (teste)
+http://187.49.86.238:10000/bysid/69
+#EXTINF:-1 tvg-id="NicktoonsTesteHLS" tvg-name="Nicktoons (teste HLS)" group-title="98 - Testes - M3U8",Nicktoons (teste HLS)
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1 tvg-id="ParamountChannelTesteDireto" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" tvg-name="Paramount Channel (teste)" group-title="98 - Testes - Links Diretos",Paramount Channel (teste)
+http://187.49.86.238:10000/bysid/49
