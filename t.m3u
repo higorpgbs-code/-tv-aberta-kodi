@@ -399,3 +399,5 @@ https://rdcanais.org/cinemax
 https://rdcanais.org/discoverychannel
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthTestePaginaHTML" tvg-name="Discovery Home & Health (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Discovery Home & Health (teste - pagina HTML)
 https://rdcanais.org/discoveryheh
+#EXTINF:-1 tvg-id="HBOTestePaginaHTML" tvg-name="HBO (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO (teste - pagina HTML)
+https://rdcanais.org/hbo
