@@ -405,3 +405,49 @@ https://rdcanais.org/hbo
 https://rdcanais.org/hbo2
 #EXTINF:-1 tvg-id="HBOFamilyTestePaginaHTML" tvg-name="HBO Family (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO Family (teste - pagina HTML)
 https://rdcanais.org/hbofamily
+#EXTINF:-1 tvg-id="RDCanaishbopopTesteHTML" tvg-name="HBO Pop (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",HBO Pop (teste - pagina HTML)
+https://rdcanais.org/hbopop
+#EXTINF:-1 tvg-id="RDCanaishistoryTesteHTML" tvg-name="History (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",History (teste - pagina HTML)
+https://rdcanais.org/history
+#EXTINF:-1 tvg-id="RDCanaishistory2TesteHTML" tvg-name="History 2 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",History 2 (teste - pagina HTML)
+https://rdcanais.org/history2
+#EXTINF:-1 tvg-id="RDCanaismegapixTesteHTML" tvg-name="Megapix (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Megapix (teste - pagina HTML)
+https://rdcanais.org/megapix
+#EXTINF:-1 tvg-id="RDCanaisparamountplusTesteHTML" tvg-name="Paramount+ 1 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Paramount+ 1 (teste - pagina HTML)
+https://rdcanais.org/paramountplus
+#EXTINF:-1 tvg-id="RDCanaisparamountplus2TesteHTML" tvg-name="Paramount+ 2 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Paramount+ 2 (teste - pagina HTML)
+https://rdcanais.org/paramountplus2
+#EXTINF:-1 tvg-id="RDCanaisparamountplus3TesteHTML" tvg-name="Paramount+ 3 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Paramount+ 3 (teste - pagina HTML)
+https://rdcanais.org/paramountplus3
+#EXTINF:-1 tvg-id="RDCanaisparamountplus4TesteHTML" tvg-name="Paramount+ 4 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Paramount+ 4 (teste - pagina HTML)
+https://rdcanais.org/paramountplus4
+#EXTINF:-1 tvg-id="RDCanaispremiereclubesTesteHTML" tvg-name="Premiere Clubes (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere Clubes (teste - pagina HTML)
+https://rdcanais.org/premiereclubes
+#EXTINF:-1 tvg-id="RDCanaispremiere2TesteHTML" tvg-name="Premiere 2 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 2 (teste - pagina HTML)
+https://rdcanais.org/premiere2
+#EXTINF:-1 tvg-id="RDCanaispremiere3TesteHTML" tvg-name="Premiere 3 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 3 (teste - pagina HTML)
+https://rdcanais.org/premiere3
+#EXTINF:-1 tvg-id="RDCanaispremiere4TesteHTML" tvg-name="Premiere 4 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 4 (teste - pagina HTML)
+https://rdcanais.org/premiere4
+#EXTINF:-1 tvg-id="RDCanaispremiere5TesteHTML" tvg-name="Premiere 5 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 5 (teste - pagina HTML)
+https://rdcanais.org/premiere5
+#EXTINF:-1 tvg-id="RDCanaispremiere6TesteHTML" tvg-name="Premiere 6 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 6 (teste - pagina HTML)
+https://rdcanais.org/premiere6
+#EXTINF:-1 tvg-id="RDCanaispremiere7TesteHTML" tvg-name="Premiere 7 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 7 (teste - pagina HTML)
+https://rdcanais.org/premiere7
+#EXTINF:-1 tvg-id="RDCanaispremiere8TesteHTML" tvg-name="Premiere 8 (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Premiere 8 (teste - pagina HTML)
+https://rdcanais.org/premiere8
+#EXTINF:-1 tvg-id="RDCanaistelecinecultTesteHTML" tvg-name="Telecine Cult (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Cult (teste - pagina HTML)
+https://rdcanais.org/telecinecult
+#EXTINF:-1 tvg-id="RDCanaistelecinefunTesteHTML" tvg-name="Telecine Fun (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Fun (teste - pagina HTML)
+https://rdcanais.org/telecinefun
+#EXTINF:-1 tvg-id="RDCanaistelecinepipocaTesteHTML" tvg-name="Telecine Pipoca (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Pipoca (teste - pagina HTML)
+https://rdcanais.org/telecinepipoca
+#EXTINF:-1 tvg-id="RDCanaistelecinepremiumTesteHTML" tvg-name="Telecine Premium (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Premium (teste - pagina HTML)
+https://rdcanais.org/telecinepremium
+#EXTINF:-1 tvg-id="RDCanaistelecinetouchTesteHTML" tvg-name="Telecine Touch (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Telecine Touch (teste - pagina HTML)
+https://rdcanais.org/telecinetouch
+#EXTINF:-1 tvg-id="RDCanaiswarnertvTesteHTML" tvg-name="Warner TV (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Warner TV (teste - pagina HTML)
+https://rdcanais.org/warnertv
+#EXTINF:-1 tvg-id="RDCanaisadultswimTesteHTML" tvg-name="Adult Swim (teste - pagina HTML)" group-title="99 - Testes - Paginas nao M3U8",Adult Swim (teste - pagina HTML)
+https://rdcanais.org/adultswim
